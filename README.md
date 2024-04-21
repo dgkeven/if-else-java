@@ -1,2 +1,2 @@
 # if-else-java
-If else simples em Java para tomar uma decisão em uma empresa!
+If else em Java com o intuito de tomar uma decisão no trabalho
