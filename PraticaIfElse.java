@@ -6,7 +6,7 @@ public class PraticaIfElse {
         double pcNovo = 17000;
         double pcUsado = 10000 ;
         if (valorAtual >= pcNovo) {
-            System.out.println("Comparei um pc novo!!");
+            System.out.println("Comprarei um pc novo!!");
         } else {
             if (valorAtual <= pcUsado) ;
             System.out.println("Comprarei um pc usado!");
