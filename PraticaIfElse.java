@@ -1,4 +1,3 @@
-package academy.meuprimeiroprograma.maratonajava.introducao;
 
 public class PraticaIfElse {
     public static void main(String[] args) {
